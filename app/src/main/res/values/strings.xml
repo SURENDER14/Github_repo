@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="search_url_text_display">Search URL will show up here when you click search</string>
+    <string name="make_search">Please Make a Search</string>
+</resources>
